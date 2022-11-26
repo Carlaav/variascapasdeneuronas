@@ -1,6 +1,6 @@
 # Varias-Capas-de-Neuronas
 
-# Instalación en Ubuntu
+# Instalación 
 
 En la carpeta del repositorio, ejecutar.
 
